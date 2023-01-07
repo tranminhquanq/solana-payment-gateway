@@ -1,8 +1,8 @@
 {
-    "name": "@solana/pay",
+    "name": "@solana/payment-gateway",
     "version": "0.2.0",
-    "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/solana-pay",
+    "author": "j2team.tranminhquang@gmail.com",
+    "repository": "https://github.com/tranminhwang/solana-payment-gateway",
     "license": "Apache-2.0",
     "type": "module",
     "sideEffects": false,
